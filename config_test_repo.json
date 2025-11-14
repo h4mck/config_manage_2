@@ -1,0 +1,8 @@
+{
+    "package_name": "numpy",
+    "repository_url": "https://github.com/numpy/numpy",
+    "test_repository_mode": true,
+    "test_repository_path": "./test_data",
+    "output_filename": "numpy_dependencies.svg",
+    "ascii_tree_output": true
+}

@@ -1,0 +1,8 @@
+{
+    "package_name": "example-package",
+    "repository_url": "https://github.com/example/example-package",
+    "test_repository_mode": false,
+    "output_filename": "example_dependencies.png",
+    "ascii_tree_output": true,
+    "test_repository_path": "./test_data"
+}

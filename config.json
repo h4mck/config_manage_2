@@ -1,0 +1,8 @@
+{
+    "package_name": "example-package",
+    "repository_url": "https://github.com/example/repo",
+    "test_repository_mode": false,
+    "test_repository_path": "./test_repo",
+    "output_filename": "dependency_graph.png",
+    "ascii_tree_output": true
+}
