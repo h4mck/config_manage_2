@@ -1,0 +1,7 @@
+{
+    "package_name": "busybox",
+    "repository_url": "https://dl-cdn.alpinelinux.org/alpine/v3.18/main",
+    "test_repository_mode": false,
+    "output_filename": "busybox_dependencies.png",
+    "ascii_tree_output": false
+}

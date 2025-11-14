@@ -1,0 +1,7 @@
+{
+    "package_name": "nginx",
+    "repository_url": "https://dl-cdn.alpinelinux.org/alpine/v3.18/main",
+    "test_repository_mode": false,
+    "output_filename": "nginx_dependencies.png",
+    "ascii_tree_output": true
+}

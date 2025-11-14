@@ -1,0 +1,50 @@
+C:Q1W7Dd8KAmO3cXv4n6m9pLs2jRfBhTgY
+P:nginx
+V:1.24.0-r10
+A:x86_64
+S:1144421
+I:3289088
+T:nginx [stable]
+U:https://nginx.org/
+L:BSD-2-Clause
+o:nginx
+m:nginx <nginx@example.com>
+t:1685432100
+c:8a74b3c5d6e7f9a0b1c2d3e4f5a6b7c8d
+D:musl libcrypto3 libssl3 pcre2 zlib
+p:nginx-doc nginx-mod-http-geoip nginx-mod-http-image-filter nginx-mod-http-xslt-filter nginx-mod-mail nginx-mod-stream
+i:nginx
+
+C:Q1a2B3c4D5e6F7g8H9i0Jk1Lm2N3o4P5
+P:musl
+V:1.2.4-r0
+A:x86_64
+S:123456
+I:456789
+T:musl libc
+U:https://musl.libc.org/
+L:MIT
+o:musl
+m:musl <musl@example.com>
+t:1685432101
+c:a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6
+D:
+p:
+i:musl
+
+C:R6q7W8s9T0u1V2w3X4y5Z6a7B8c9D0e
+P:busybox
+V:1.36.1-r0
+A:x86_64
+S:234567
+I:567890
+T:busybox
+U:https://busybox.net/
+L:GPL-2.0-only
+o:busybox
+m:busybox <busybox@example.com>
+t:1685432102
+c:b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7
+D:musl
+p:busybox-suid busybox-w32
+i:busybox
